@@ -16,6 +16,7 @@ Dr. Yang received his Ph.D. from [University of Electronic Science and Technolog
 During the PhD and work period, as a main research staff member, he has done the Huawei pre-research fund project (grant No. YBNP2004011-1), the youth software innovation fund project of Sichuan province (grant No. 2004AA0369, 2005AA0827), the project supported by the Foundation of National Key Laboratory of Space Microwave Technology (Grant No. 9140C5301020801), and Fundamental Research Funds for the Central Universities (grant No. ZYGX2009J056).
 
 Research Interest:
+* Building Safe A.I.
 * Security in Cloud Computing
 * Fully Homomorphic Encryption
 * Searchable Encryption
